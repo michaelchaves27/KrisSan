@@ -48,7 +48,7 @@ function OnSuccess(data) {
               </div>
           </div>
           <div class="card-body">
-              <a href="shop-single.html" class="h3 text-decoration-none">${producto.nombre}</a>
+              <a href="shop.html" class="h3 text-decoration-none">${producto.nombre}</a>
               <ul class="w-100 list-unstyled d-flex justify-content-between mb-0">
                   
                   <li class="pt-2">
