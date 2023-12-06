@@ -1,0 +1,18 @@
+/*
+Custom Css
+*/
+#fotoAutor{
+    height: 200px;
+    width: 200px;
+}
+
+#imgNosotros{
+    height: 300px;
+    width: 300px;
+}
+
+#iconos{
+    float: left;
+    flex: auto;
+    text-align: center;
+}

@@ -1,0 +1,83 @@
+{
+    "Productos": [
+        {
+            "clasificacion": "Lubricante",
+            "imagen": "assets/img/menu/lobster-bisque.jpg",
+            "nombre": "Aceite Motul 20w50",
+            "precio": 7500
+        },
+        {
+            "clasificacion": "Lubricante",
+            "imagen": "assets/img/menu/bread-barrel.jpg",
+            "nombre": "Aceite Bel Ray 10w40",
+            "precio": 15000
+        },
+        {
+            "clasificacion": "Lubricante",
+            "imagen": "assets/img/menu/cake.jpg",
+            "nombre": "Lubricante Repsol",
+            "precio": 5000
+        },
+        {
+            "clasificacion": "Repuesto",
+            "imagen": "assets/img/menu/caesar.jpg",
+            "nombre": "Caburador",
+            "precio": 8.95
+        },
+        {
+            "clasificacion": "Repuesto",
+            "imagen": "assets/img/menu/tuscan-grilled.jpg",
+            "nombre": "Espejos",
+            "precio": 9.95
+        },
+        {
+            "clasificacion": "Repuesto",
+            "imagen": "assets/img/menu/mozzarella.jpg",
+            "nombre": "Pastillas de Freno",
+            "precio": 4.95
+        },
+        {
+            "clasificacion": "Proteccion",
+            "imagen": "assets/img/menu/greek-salad.jpg",
+            "nombre": "Casco LS2 Modular",
+            "precio": 9.95
+        },
+
+        {
+            "clasificacion": "Proteccion",
+            "imagen": "assets/img/menu/spinach-salad.jpg",
+            "nombre": "Rodilleras Soyco",
+            "precio": 8.71
+        },
+
+        {
+            "clasificacion": "Proteccion",
+            "imagen": "assets/img/menu/lobster-roll.jpg",
+            "nombre": "Guantes con Protección",
+            "precio": 12.95
+        },
+
+        {
+            "clasificacion": "Accesorio",
+            "imagen": "assets/img/menu/gallo-pinto.jpg",
+            "nombre": "Comunicador Bluetooh",
+            "precio": 5.23
+        },
+
+        {
+            "clasificacion": "Accesorio",
+            "imagen": "assets/img/menu/patacones.jpg",
+            "nombre": "Holder",
+            "precio": 7.42
+        },
+
+        {
+            "clasificacion": "Accesorio",
+            "imagen": "assets/img/menu/ensalada-rusa.jpg",
+            "nombre": "Cajón 25L",
+            "precio": 3.15
+        }
+
+    
+   ]
+}
